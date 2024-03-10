@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/env0eagle/tea-event-networking.git"
+    "url": "https://github.com/env0eagle/tea-event-networking.git"
   },
   "dependencies": {
     "tea-demo-arsen": "1.0.1",
