@@ -1,0 +1,24 @@
+{
+  "name": "tea-event-networking",
+  "version": "1.0.0",
+  "description": "tea event networking test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/env0eagle/tea-event-networking.git"
+  },
+  "dependencies": {
+    "tea-demo-arsen": "1.0.1",
+    "tea-quality-controlling": "1.0.0",
+    "tea-farming-innovation": "1.0.1"
+  },
+  "author": "env0eagle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/env0eagle/tea-event-networking/issues"
+  },
+  "homepage": "https://github.com/env0eagle/tea-event-networking#readme"
+}
